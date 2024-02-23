@@ -1,0 +1,470 @@
+{
+    "Examples": [
+        {
+            "Name": "Start Engine",
+            "Command": "RETURN",
+            "Icon": "music-switch-on-off-button-icon.png"
+        },
+        {
+            "Name": "Open Map",
+            "Command": "M",
+            "Icon": "maps-line-icon.png"
+        },
+        {
+            "Name": "Light On/Off",
+            "Command": "L",
+            "Icon": "light-lightbulb-icon.png"
+        },
+        {
+            "Name": "Swap Vehicle",
+            "Command": "TAB,W",
+            "Icon": "car-exchange-icon.png"
+        },
+        {
+            "Name": "Settings",
+            "Command": "ESCAPE",
+            "Icon": "maintenance-icon.png"
+        },
+        {
+            "Name": "Autopilot2",
+            "Command": "A,O",
+            "Icon": "steering-wheel-icon.png"
+        }
+    ],
+    "ETS2": [
+        {
+            "Name": "Motorbremse",
+            "Command": "B",
+            "Icon": "maintenance-icon.png"
+        },
+        {
+            "Name": "Heckscheinwerfer",
+            "Command": "A,F",
+            "Icon": "light-lightbulb-icon.png"
+        }
+    ],
+    "All Keys": [
+        {
+            "Name": "\u00b4",
+            "Command": "GRAVE",
+            "Icon": ""
+        },
+        {
+            "Name": "1",
+            "Command": "1",
+            "Icon": ""
+        },
+        {
+            "Name": "2",
+            "Command": "2",
+            "Icon": ""
+        },
+        {
+            "Name": "3",
+            "Command": "3",
+            "Icon": ""
+        },
+        {
+            "Name": "4",
+            "Command": "4",
+            "Icon": ""
+        },
+        {
+            "Name": "5",
+            "Command": "5",
+            "Icon": ""
+        },
+        {
+            "Name": "6",
+            "Command": "6",
+            "Icon": ""
+        },
+        {
+            "Name": "7",
+            "Command": "7",
+            "Icon": ""
+        },
+        {
+            "Name": "8",
+            "Command": "8",
+            "Icon": ""
+        },
+        {
+            "Name": "9",
+            "Command": "9",
+            "Icon": ""
+        },
+        {
+            "Name": "0",
+            "Command": "0",
+            "Icon": ""
+        },
+        {
+            "Name": "-",
+            "Command": "MINUS",
+            "Icon": ""
+        },
+        {
+            "Name": "=",
+            "Command": "EQUALS",
+            "Icon": ""
+        },
+        {
+            "Name": "BACKSPACE",
+            "Command": "BACKSPACE",
+            "Icon": ""
+        },
+        {
+            "Name": "PAGE UP",
+            "Command": "PGUP",
+            "Icon": ""
+        },
+        {
+            "Name": "PAGE DOWN",
+            "Command": "PGDN",
+            "Icon": ""
+        },
+        {
+            "Name": "HOME",
+            "Command": "HOME",
+            "Icon": ""
+        },
+        {
+            "Name": "END",
+            "Command": "END",
+            "Icon": ""
+        },
+        {
+            "Name": "TAB",
+            "Command": "TAB",
+            "Icon": ""
+        },
+        {
+            "Name": "CAPITAL",
+            "Command": "CAPITAL",
+            "Icon": ""
+        },
+        {
+            "Name": "LEFT SHIFT",
+            "Command": "LSHIFT",
+            "Icon": ""
+        },
+        {
+            "Name": "LEFT CONTROL",
+            "Command": "LCTRL",
+            "Icon": ""
+        },
+        {
+            "Name": "LEFT ALT",
+            "Command": "LALT",
+            "Icon": ""
+        },
+        {
+            "Name": "SPACE",
+            "Command": "SPACE",
+            "Icon": ""
+        },
+        {
+            "Name": "RIGHT ALT",
+            "Command": "RALT",
+            "Icon": ""
+        },
+        {
+            "Name": "RIGHT CONTROL",
+            "Command": "RCTRL",
+            "Icon": ""
+        },
+        {
+            "Name": "RIGHT SHIFT",
+            "Command": "RSHIFT",
+            "Icon": ""
+        },
+        {
+            "Name": "RETURN",
+            "Command": "RETURN",
+            "Icon": ""
+        },
+        {
+            "Name": "ESCAPE",
+            "Command": "ESCAPE",
+            "Icon": ""
+        },
+        {
+            "Name": "F1",
+            "Command": "F1",
+            "Icon": ""
+        },
+        {
+            "Name": "F2",
+            "Command": "F2",
+            "Icon": ""
+        },
+        {
+            "Name": "F3",
+            "Command": "F3",
+            "Icon": ""
+        },
+        {
+            "Name": "F4",
+            "Command": "F4",
+            "Icon": ""
+        },
+        {
+            "Name": "F5",
+            "Command": "F5",
+            "Icon": ""
+        },
+        {
+            "Name": "F6",
+            "Command": "F6",
+            "Icon": ""
+        },
+        {
+            "Name": "F7",
+            "Command": "F7",
+            "Icon": ""
+        },
+        {
+            "Name": "F8",
+            "Command": "F8",
+            "Icon": ""
+        },
+        {
+            "Name": "F9",
+            "Command": "F8",
+            "Icon": ""
+        },
+        {
+            "Name": "F10",
+            "Command": "F10",
+            "Icon": ""
+        },
+        {
+            "Name": "F11",
+            "Command": "F11",
+            "Icon": ""
+        },
+        {
+            "Name": "F12",
+            "Command": "F12",
+            "Icon": ""
+        },
+        {
+            "Name": "DELETE",
+            "Command": "DELETE",
+            "Icon": ""
+        },
+        {
+            "Name": "Q",
+            "Command": "Q",
+            "Icon": ""
+        },
+        {
+            "Name": "W",
+            "Command": "W",
+            "Icon": ""
+        },
+        {
+            "Name": "E",
+            "Command": "E",
+            "Icon": ""
+        },
+        {
+            "Name": "R",
+            "Command": "R",
+            "Icon": ""
+        },
+        {
+            "Name": "T",
+            "Command": "T",
+            "Icon": ""
+        },
+        {
+            "Name": "Z",
+            "Command": "Z",
+            "Icon": ""
+        },
+        {
+            "Name": "U",
+            "Command": "U",
+            "Icon": ""
+        },
+        {
+            "Name": "I",
+            "Command": "I",
+            "Icon": ""
+        },
+        {
+            "Name": "O",
+            "Command": "O",
+            "Icon": ""
+        },
+        {
+            "Name": "P",
+            "Command": "P",
+            "Icon": ""
+        },
+        {
+            "Name": "[",
+            "Command": "LBRACKET",
+            "Icon": ""
+        },
+        {
+            "Name": "]",
+            "Command": "RBRACKET",
+            "Icon": ""
+        },
+        {
+            "Name": "A",
+            "Command": "A",
+            "Icon": ""
+        },
+        {
+            "Name": "S",
+            "Command": "S",
+            "Icon": ""
+        },
+        {
+            "Name": "D",
+            "Command": "D",
+            "Icon": ""
+        },
+        {
+            "Name": "F",
+            "Command": "F",
+            "Icon": ""
+        },
+        {
+            "Name": "G",
+            "Command": "G",
+            "Icon": ""
+        },
+        {
+            "Name": "H",
+            "Command": "H",
+            "Icon": ""
+        },
+        {
+            "Name": "J",
+            "Command": "J",
+            "Icon": ""
+        },
+        {
+            "Name": "K",
+            "Command": "K",
+            "Icon": ""
+        },
+        {
+            "Name": "L",
+            "Command": "L",
+            "Icon": ""
+        },
+        {
+            "Name": ";",
+            "Command": "SEMICOLON",
+            "Icon": ""
+        },
+        {
+            "Name": "'",
+            "Command": "APOSTROPHE",
+            "Icon": ""
+        },
+        {
+            "Name": "\\",
+            "Command": "BACKSLASH",
+            "Icon": ""
+        },
+        {
+            "Name": "Y",
+            "Command": "Y",
+            "Icon": ""
+        },
+        {
+            "Name": "X",
+            "Command": "X",
+            "Icon": ""
+        },
+        {
+            "Name": "C",
+            "Command": "C",
+            "Icon": ""
+        },
+        {
+            "Name": "V",
+            "Command": "V",
+            "Icon": ""
+        },
+        {
+            "Name": "B",
+            "Command": "B",
+            "Icon": ""
+        },
+        {
+            "Name": "N",
+            "Command": "N",
+            "Icon": ""
+        },
+        {
+            "Name": "M",
+            "Command": "M",
+            "Icon": ""
+        },
+        {
+            "Name": ",",
+            "Command": "COMMA",
+            "Icon": ""
+        },
+        {
+            "Name": ".",
+            "Command": "PERIOD",
+            "Icon": ""
+        },
+        {
+            "Name": "/",
+            "Command": "SLASH",
+            "Icon": ""
+        },
+        {
+            "Name": "ARROW UP",
+            "Command": "UP",
+            "Icon": ""
+        },
+        {
+            "Name": "ARROW DOWN",
+            "Command": "DOWN",
+            "Icon": ""
+        },
+        {
+            "Name": "ARROW LEFT",
+            "Command": "LEFT",
+            "Icon": ""
+        },
+        {
+            "Name": "ARROW RIGHT",
+            "Command": "RIGHT",
+            "Icon": ""
+        }
+    ],
+    "FS2022": [
+        {
+            "Name": "Engine Start/Sop",
+            "Command": "ENTER",
+            "Icon": "music-switch-on-off-button-icon.png"
+        },
+        {
+            "Name": "Map",
+            "Command": "M",
+            "Icon": "maps-line-icon.png"
+        },
+        {
+            "Name": "Light On/Off",
+            "Command": "F",
+            "Icon": "light-lightbulb-icon.png"
+        },
+        {
+            "Name": "Beacon",
+            "Command": "HOME",
+            "Icon": "siren-icon.png"
+        }
+    ]
+}
