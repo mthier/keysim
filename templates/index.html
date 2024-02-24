@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!AUTHOR: Michael Thiermann, 06.02.2023, Version 0.02>
+<html>
+    <head>
+        <title>KeySim - Client</title>
+        <link rel="shortcut icon" type="image/x-icon" href="static/images/system_icons/favicon.ico">
+        <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <script type="text/javascript" src="{{ url_for('static', filename='js/fullscreen.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/post_key_event.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/get_key_event_list.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/no_touch_select.js') }}">
+        </script>
+         <script type="text/javascript" src="{{ url_for('static', filename='js/skip_key_event_list.js') }}"></script>
+    </head>
+    
+    <body>
+        <div class="wrapper">
+            <div class="nav">
+                <button class="skipButton" onclick="skipKeyEvent('left');"><img src="/static/images/system_icons/arrow_left_icon.png"></button>
+                <button class="fullscreenButton" onclick="viewFullScreen();"> <img src="/static/images/system_icons/fullscreen_icon.png"></button>
+                <div class="keyEventList"> 
+                    {{ keyEventList | safe }} 
+                </div>
+                <button class="skipButton" onclick="skipKeyEvent('right');"><img src="/static/images/system_icons/arrow_right_icon.png"></button>
+            </div>
+            <div class="welcome">
+                {{ welcomeTxt | safe }} 
+            </div>
+            <div class="buttonGroup">
+                <div id="buttonGroupID" >
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
